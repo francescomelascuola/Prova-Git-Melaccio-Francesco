@@ -1,0 +1,1 @@
+Durante le lezioni di TPSIT abbiamo imparato ad usare i principali comandi di GIT e come funzioni GITHUB. Attualmente abbiamo fatto i repository, i commit, le aggiunte di file e altre diverse cose e attualmente stiamo effettuando una verifica sia pratica che teorica sull'argomento.
